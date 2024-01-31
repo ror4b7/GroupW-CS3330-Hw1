@@ -9,6 +9,8 @@ public class Homework_1 {
 		System.out.println("Name: Justice\nID: jus_mitchell\n");
 
 		System.out.println("Name: Trey\nID: 141661331");
+
+		System.out.println("\nName: Rachel\nID: 118402265\n");
 	}
 
 }
